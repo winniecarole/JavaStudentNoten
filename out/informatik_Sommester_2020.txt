@@ -1,0 +1,186 @@
+
+------------------------------------------------------------------------------------------
+MatrNr	 :1234
+Name	 :M�ller
+Vorname	 :Thomas
+
+Pruefungsleistungen 
+[
+
+Modul		 :OOP
+Pruefer		 :Bienhaus
+ergebnis	 :74.0, 
+
+Modul		 :PIS
+Pruefer		 :Herzberg
+ergebnis	 :42.0, 
+
+Modul		 :AUD
+Pruefer		 :D�ring
+ergebnis	 :20.0, 
+
+Modul		 :NTG
+Pruefer		 :Welzel
+ergebnis	 :68.0, 
+
+Modul		 :Mathematik
+Pruefer		 :Just
+ergebnis	 :83.0]
+
+Durchschnitt	 :57.4
+Anzahl NB	 :2
+
+------------------------------------------------------------------------------------------
+MatrNr	 :1454
+Name	 :Kier
+Vorname	 :Jonas
+
+Pruefungsleistungen 
+[
+
+Modul		 :OOP
+Pruefer		 :Bienhaus
+ergebnis	 :38.0, 
+
+Modul		 :PIS
+Pruefer		 :Herzberg
+ergebnis	 :88.0, 
+
+Modul		 :AUD
+Pruefer		 :D�ring
+ergebnis	 :93.0, 
+
+Modul		 :NTG
+Pruefer		 :Welzel
+ergebnis	 :72.0, 
+
+Modul		 :Mathematik
+Pruefer		 :Just
+ergebnis	 :60.0]
+
+Durchschnitt	 :70.2
+Anzahl NB	 :1
+
+------------------------------------------------------------------------------------------
+MatrNr	 :1454
+Name	 :Klaus
+Vorname	 :Cesar
+
+Pruefungsleistungen 
+[
+
+Modul		 :OOP
+Pruefer		 :Bienhaus
+ergebnis	 :54.0, 
+
+Modul		 :PIS
+Pruefer		 :Herzberg
+ergebnis	 :40.0, 
+
+Modul		 :AUD
+Pruefer		 :D�ring
+ergebnis	 :1.0, 
+
+Modul		 :NTG
+Pruefer		 :Welzel
+ergebnis	 :72.0, 
+
+Modul		 :Mathematik
+Pruefer		 :Just
+ergebnis	 :18.0]
+
+Durchschnitt	 :37.0
+Anzahl NB	 :3
+
+------------------------------------------------------------------------------------------
+MatrNr	 :1454
+Name	 :Recker
+Vorname	 :Max
+
+Pruefungsleistungen 
+[
+
+Modul		 :OOP
+Pruefer		 :Bienhaus
+ergebnis	 :74.0, 
+
+Modul		 :PIS
+Pruefer		 :Herzberg
+ergebnis	 :73.0, 
+
+Modul		 :AUD
+Pruefer		 :D�ring
+ergebnis	 :86.0, 
+
+Modul		 :NTG
+Pruefer		 :Welzel
+ergebnis	 :5.0, 
+
+Modul		 :Mathematik
+Pruefer		 :Just
+ergebnis	 :87.0]
+
+Durchschnitt	 :65.0
+Anzahl NB	 :1
+
+------------------------------------------------------------------------------------------
+MatrNr	 :1454
+Name	 :Laxkute
+Vorname	 :Emile
+
+Pruefungsleistungen 
+[
+
+Modul		 :OOP
+Pruefer		 :Bienhaus
+ergebnis	 :29.0, 
+
+Modul		 :PIS
+Pruefer		 :Herzberg
+ergebnis	 :30.0, 
+
+Modul		 :AUD
+Pruefer		 :D�ring
+ergebnis	 :55.0, 
+
+Modul		 :NTG
+Pruefer		 :Welzel
+ergebnis	 :4.0, 
+
+Modul		 :Mathematik
+Pruefer		 :Just
+ergebnis	 :92.0]
+
+Durchschnitt	 :42.0
+Anzahl NB	 :3
+
+------------------------------------------------------------------------------------------
+MatrNr	 :1454
+Name	 :Kuhl
+Vorname	 :Marie
+
+Pruefungsleistungen 
+[
+
+Modul		 :OOP
+Pruefer		 :Bienhaus
+ergebnis	 :67.0, 
+
+Modul		 :PIS
+Pruefer		 :Herzberg
+ergebnis	 :38.0, 
+
+Modul		 :AUD
+Pruefer		 :D�ring
+ergebnis	 :71.0, 
+
+Modul		 :NTG
+Pruefer		 :Welzel
+ergebnis	 :21.0, 
+
+Modul		 :Mathematik
+Pruefer		 :Just
+ergebnis	 :61.0]
+
+Durchschnitt	 :51.6
+Anzahl NB	 :2
